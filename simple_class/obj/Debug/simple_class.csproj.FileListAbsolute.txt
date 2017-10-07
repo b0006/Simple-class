@@ -1,0 +1,12 @@
+c:\users\comp\documents\visual studio 2017\Projects\simple_class\simple_class\bin\Debug\simple_class.exe.config
+c:\users\comp\documents\visual studio 2017\Projects\simple_class\simple_class\bin\Debug\simple_class.exe
+c:\users\comp\documents\visual studio 2017\Projects\simple_class\simple_class\bin\Debug\simple_class.pdb
+c:\users\comp\documents\visual studio 2017\Projects\simple_class\simple_class\obj\Debug\simple_class.csprojResolveAssemblyReference.cache
+c:\users\comp\documents\visual studio 2017\Projects\simple_class\simple_class\obj\Debug\simple_class.exe
+c:\users\comp\documents\visual studio 2017\Projects\simple_class\simple_class\obj\Debug\simple_class.pdb
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\simple_class\Simple-class\simple_class\bin\Debug\simple_class.exe.config
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\simple_class\Simple-class\simple_class\bin\Debug\simple_class.exe
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\simple_class\Simple-class\simple_class\bin\Debug\simple_class.pdb
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\simple_class\Simple-class\simple_class\obj\Debug\simple_class.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\simple_class\Simple-class\simple_class\obj\Debug\simple_class.exe
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\simple_class\Simple-class\simple_class\obj\Debug\simple_class.pdb
